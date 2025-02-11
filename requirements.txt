@@ -1,0 +1,9 @@
+amadeus
+openapi-client
+fastapi
+uvicorn
+python-dotenv
+pydantic
+langchain_openai
+fpdf
+python-docx
